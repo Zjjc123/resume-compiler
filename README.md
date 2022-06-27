@@ -6,5 +6,6 @@
 
 ### Image
 <img height=500 src="./resume.png">
+
 ### Acknowledgment
 Resume Template: https://www.overleaf.com/latex/templates/cs-slash-it-slash-swe-resume-template/ncxgzcgknkmf
